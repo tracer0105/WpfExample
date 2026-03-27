@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="src/Calculator/WpfCalculator.csproj" />
+  <Project Path="src/WpfMediaPlayer/WpfMediaPlayer.csproj" Id="6162611b-7650-40d7-8eb7-0eecec2c60aa" />
 </Solution>
